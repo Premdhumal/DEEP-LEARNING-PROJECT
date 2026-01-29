@@ -18,6 +18,9 @@ MENTOR: NEELA SANTOSH
 
 ![Predictions](predictions.png)
 
+## Training Loss
+![Training Loss](training_loss.png)
+
 
 #DESCRIPTION:
 In this task, I implemented a deep learning model for image classification using PyTorch. The main objective of this task was to understand how deep learning models work and how they can be used to classify images. Image classification is one of the most common applications of deep learning and is widely used in many real-world systems such as face recognition, handwritten digit recognition, medical image analysis, and self-driving cars.
